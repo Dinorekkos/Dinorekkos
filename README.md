@@ -1,16 +1,36 @@
-## Hi there 👋
+#  Hi, I'm Diana Ramos (Dinorekkos)
+**Game Developer | Multiplayer Game Programmer | Technical Game Producer**
 
-<!--
-**Dinorekkos/Dinorekkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a game programmer specialized in **mobile, multiplayer, backend systems and VR**, with experience on taking games **from development to full release**. I work mainly with **Unity** c:
 
-Here are some ideas to get you started:
+## 🔥 EXPERTIES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  **Multiplayer and backend networking experience**
+
+- **Mobile development**
+- **VR development**
+
+- **Experience working with international teams & clients**
+
+---
+## 🧰 Tech Stack
+
+**Game Engines**  
+Unity · Unreal Engine  
+
+**Multiplayer & Backend**  
+Unity Services · Fishnet · Playflow Servers · Cloud Code · Node.js
+
+**Tools**  
+Git · Rider · VS Code · Notion · Asana  
+
+---
+
+## 🌍 Languages
+- Spanish (Native)
+- English (Advanced)
+
+---
+
+📫 **Contact**  
+[LinkedIn](https://linkedin.com/in/dianargamedev) · dianaramosgd@gmail.com
