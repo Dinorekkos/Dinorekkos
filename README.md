@@ -1,3 +1,4 @@
+![brand](images/brandCustom.png)
 #  Hi, I'm Diana Ramos (Dinorekkos)
 **Game Developer | Multiplayer Game Programmer | Technical Game Producer**
 
