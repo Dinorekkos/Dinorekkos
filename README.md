@@ -4,7 +4,7 @@
 
 I’m a game programmer specialized in **mobile, multiplayer, backend systems and VR**, with experience on taking games **from development to full release**. I work mainly with **Unity** c:
 
-## 🔥 MY HIGHLIGHTS
+## 🔥 My Highlights
 
 -  **Multiplayer and backend networking experience**
 
